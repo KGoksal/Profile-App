@@ -1,0 +1,43 @@
+* {
+    font-family: 'Courier New', monospace;
+}
+body {
+    background-color: #eeeeee;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #666666;
+    padding: 0;
+    margin: 0;
+}
+p { color: #444444;}
+ul { padding: 0; margin: 0; }
+ul > li.nav {
+    display: inline-block;
+    margin: 10px 5px 0 0;
+}
+a { color: #222222; }
+a:active, a:hover, a:visited {
+    color: #000;
+    font-weight: 600;
+}
+img { 
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 20px 5px;
+}
+p.profile-label {
+    background-color: #444;
+    width: 300px;
+}
+.profile-label > span:nth-child(1) {
+    color: #fff;
+    padding: 5px;
+    width: 100px;
+}
+.profile-label span {
+    display: inline-block;
+    color: #eee;
+}
