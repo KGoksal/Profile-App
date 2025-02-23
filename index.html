@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Profile App - Home</title>
+        <link rel="stylesheet" href="./styles/styles.css" />
+        <!-- Adding Bootstrap for better styling -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    </head>
+    <body>
+        <!-- Navigation Bar -->
+        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #40E0D0;">
+            <div class="container">
+                <a class="navbar-brand fs-3 fw-bold" href="#">Profile App</a>
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link active" href="./index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./pages/profile.html">Profile</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <div class="container mt-5">
+            <div class="row">
+                <!-- Sample Image Section -->
+                <div class="col-md-4">
+                    <img src="https://images.unsplash.com/photo-1511367461989-f85a21fda167?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.0.3" 
+                         alt="Profile Sample" 
+                         class="img-fluid rounded shadow-sm mb-4"
+                         style="width: 100%; object-fit: cover;">
+                </div>
+                
+                <div class="col-md-8">
+                    <h1 class="mb-4">Welcome to Profile App</h1>
+                    <!-- Profile Information Display -->
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <h5 class="card-title">Your Profile</h5>
+                            <div id="profileDisplay">
+                                <p class="text-muted">No profile information yet. Please visit the Profile page to add your details.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">About This App</h5>
+                            <p class="card-text">This is a simple profile application that demonstrates file linking and web development basics.</p>
+                            <p class="card-text">Features include:</p>
+                            <ul>
+                                <li>Responsive design</li>
+                                <li>Clean navigation</li>
+                                <li>Profile management</li>
+                                <li>Modern UI components</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="card mt-4">
+                        <div class="card-body">
+                            <h5 class="card-title">Get Started</h5>
+                            <p class="card-text">Visit your profile page to customize your information and see more features!</p>
+                            <a href="./pages/profile.html" class="btn btn-primary">Go to Profile</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="text-light text-center py-3 mt-5" style="background-color: #40E0D0;">
+            <p class="mb-0">© 2024 Profile App. All rights reserved.</p>
+        </footer>
+
+        <!-- Scripts -->
+        <script src="./scripts/script.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>
