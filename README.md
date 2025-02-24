@@ -15,7 +15,7 @@ This web application allows users to create and manage their personal profiles. 
 - Responsive navigation
 - Turquoise-themed design
 
-### Profile Page 👤
+### Profile Page 
 - Profile picture upload
 - Personal information form
 - Professional details
@@ -35,15 +35,8 @@ project/
     └── styles.css      # CSS styles
 ```
 
-## Technologies Used 💻
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5.3.0
-- Font Awesome icons
-- Local Storage
 
-## How to Use 📘
+## How to Use 
 
 ### 1. View Home Page
 - Open `index.html`
@@ -65,7 +58,7 @@ project/
 - Return to Home page
 - See your saved information displayed
 
-## Features Implemented ⚙️
+## Features Implemented ⚙
 
 ### Profile Management
 - Picture upload
