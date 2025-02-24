@@ -33,7 +33,6 @@ project/
     └── styles.css      # CSS styles
 ```
 
-
 ## How to Use 
 ### 1. View Home Page
 - Open `index.html`
