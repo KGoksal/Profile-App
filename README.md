@@ -2,7 +2,6 @@
 A simple and responsive profile management web application.
 
 ## Description 
-
 This web application allows users to create and manage their personal profiles. Built with HTML, CSS, and JavaScript, it features a clean interface for profile management and viewing.
 <img width="1402" alt="Screenshot 2025-02-23 at 3 49 07 PM" src="https://github.com/user-attachments/assets/e59152ea-05b4-41b2-891a-9a8a248bb8fb" />
 
