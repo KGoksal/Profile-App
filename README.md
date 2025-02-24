@@ -94,7 +94,6 @@ project/
 
 
 ## Code Examples 
-
 ### Profile Picture Upload
 ```javascript
 imageUpload.addEventListener('change', function(event) {
