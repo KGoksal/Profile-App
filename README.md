@@ -66,31 +66,31 @@ project/
 - Auto-loading saved data
 - Success notifications
 
-### Design Elements 🎨
+### Design Elements 
 - Turquoise navigation (#40E0D0)
 - Light blue profile page (#e6f3ff)
 - Responsive layout
 - Mobile-friendly design
 
-## Storage 💾
+## Storage 
 - All data saved in browser's localStorage
 - Profile picture stored as base64
 - Data persists between sessions
 
-## Browser Compatibility 🌐
+## Browser Compatibility 
 - Chrome
 - Firefox
 - Safari
 - Edge
 
-## Future Updates 🚀
+## Future Updates 
 1. User authentication
 2. Server storage
 3. Profile sharing
 4. More profile sections
 5. Data export
 
-## Getting Started 🎯
+## Getting Started 
 
 1. Download all files
 2. Maintain folder structure
@@ -99,7 +99,7 @@ project/
 
 > No installation or server setup required!
 
-## Code Examples 💡
+## Code Examples 
 
 ### Profile Picture Upload
 ```javascript
@@ -130,7 +130,7 @@ profileForm.addEventListener('submit', function(event) {
 });
 ```
 
-## File Descriptions 📄
+## File Descriptions 
 
 ### index.html
 - Main landing page
@@ -156,5 +156,5 @@ profileForm.addEventListener('submit', function(event) {
 - Responsive design rules
 - Layout formatting
 
-## Contributing 🤝
+## Contributing 
 Feel free to fork this project and make improvements!
