@@ -72,7 +72,7 @@ project/
 - Profile picture stored as base64
 - Data persists between sessions
 
-## Browser Compatibility 
+## Browser Compatibility  
 - Chrome
 - Firefox
 - Safari
