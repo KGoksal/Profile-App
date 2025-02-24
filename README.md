@@ -36,7 +36,6 @@ project/
 
 
 ## How to Use 
-
 ### 1. View Home Page
 - Open `index.html`
 - View profile information
