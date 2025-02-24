@@ -127,7 +127,6 @@ profileForm.addEventListener('submit', function(event) {
 ```
 
 ## File Descriptions 
-
 ### index.html
 - Main landing page
 - Displays profile information
