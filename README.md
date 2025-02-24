@@ -97,7 +97,6 @@ project/
 3. Open `index.html` in browser
 4. Start using the app
 
-> No installation or server setup required!
 
 ## Code Examples 
 
