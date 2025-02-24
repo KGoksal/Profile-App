@@ -57,8 +57,7 @@ project/
 - Return to Home page
 - See your saved information displayed
 
-## Features Implemented ⚙
-
+## Features Implemented 
 ### Profile Management
 - Picture upload
 - Information storage
