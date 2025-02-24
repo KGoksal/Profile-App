@@ -89,7 +89,6 @@ project/
 5. Data export
 
 ## Getting Started 
-
 1. Download all files
 2. Maintain folder structure
 3. Open `index.html` in browser
