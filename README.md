@@ -122,11 +122,11 @@ profileForm.addEventListener('submit', function(event) {
 });
 ```
 
-## File Descriptions 
-### index.html
+## File Descriptions  
+### index.html 
 - Main landing page
-- Displays profile information
-- Navigation menu
+- Displays profile information 
+- Navigation menu 
 - Welcome section
 
 ### profile.html
