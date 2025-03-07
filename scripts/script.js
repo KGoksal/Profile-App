@@ -2,9 +2,9 @@ console.log("Hello world!");
 console.log("This is a profile application!");
 
 // DOM Elements
-const profileForm = document.getElementById('profileForm');
-const imageUpload = document.getElementById('imageUpload');
-const profilePicture = document.getElementById('profilePicture');
+const profileForm = document.getElementById('profileForm'); 
+const imageUpload = document.getElementById('imageUpload'); 
+const profilePicture = document.getElementById('profilePicture'); 
 
 // Handle profile picture upload
 if (imageUpload) {
