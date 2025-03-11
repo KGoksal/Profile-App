@@ -7,11 +7,11 @@ This web application allows users to create and manage their personal profiles. 
 
 ## Features 
 ### Home Page  
-- Welcome section with profile overview 
-- Sample profile image display  
-- Features and benefits section
-- Responsive navigation
-- Turquoise-themed design
+- Welcome section with profile overview  
+- Sample profile image display   
+- Features and benefits section 
+- Responsive navigation 
+- Turquoise-themed design 
 
 ### Profile Page 
 - Profile picture upload
